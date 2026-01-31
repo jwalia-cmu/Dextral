@@ -1,5 +1,5 @@
 export const SITE = {
-  brand: "TaaS robotics",
+  brand: "Dextral Robotics",
   email: "karanwalia@cmu.edu",
 };
 
@@ -16,16 +16,16 @@ export const DOMAINS = [
 
 export const FOUNDERS = [
   {
-    name: "Karan Walia",
-    line: "Robotics + systems. Building reliable remote ops.",
-    linkedin: "https://www.linkedin.com",
-    photo: "https://i.pravatar.cc/160?img=12",
+    name: "Jaskaran (Karan) Walia",
+    line: "Machine Learning@CMU, Ex-Microsoft, Ex-MIT, 20+ papers, 80+ Citations, published in CVPR, CHI, Springer, ASE",
+    linkedin: "https://www.linkedin.com/in/jaskaranwalia",
+    photo: "public/jaskaran_pic.png",
   },
   {
-    name: "Co-founder",
-    line: "Product + deployment. Shipping robots into the real world.",
-    linkedin: "https://www.linkedin.com",
-    photo: "https://i.pravatar.cc/160?img=32",
+    name: "Shreenabh Agrawal",
+    line: "Robotics@CMU, worked across quadrupeds, arms, humanoids, drones, published in (ICRA/IROS/RA-L)",
+    linkedin: "https://www.linkedin.com/in/shreenabh",
+    photo: "public/shreenabh_pic.png",
   },
 ] as const;
 
